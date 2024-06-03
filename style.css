@@ -39,6 +39,7 @@ body {
 
 .letra{
     font-size: 18px;
+    color: green;
 }
 
 @media (max-width:768px) {
