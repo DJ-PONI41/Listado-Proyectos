@@ -49,6 +49,10 @@ body {
     .description{
         display: none;
     }
+
+    .category .left img {
+        display: none;
+    }
 }
 
 .wrapper .screen {
